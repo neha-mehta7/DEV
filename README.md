@@ -16,7 +16,6 @@ Initially the folder looks like this
 
 
 
-
 ![fo](https://user-images.githubusercontent.com/95498638/172558389-a814471a-8735-4d3f-9df1-30f8c7bb2f38.JPG)
 
 
